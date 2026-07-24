@@ -1,0 +1,24 @@
+pkg/plugins/gateway/algorithms/pd/engine/sglang.go
+  s_594002ef9fa3a8::t_01ae16417d7d10 216-218
+  s_594002ef9fa3a8::t_b5fee522e27119 159-161
+pkg/plugins/gateway/algorithms/pd/engine/sglang_test.go
+  s_594002ef9fa3a8::t_7ffbb220b5b06b 167-169
+pkg/plugins/gateway/algorithms/pd/prefill/payload_test.go
+  s_594002ef9fa3a8::t_c059752c2fb899 208-211,214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "6a47daf1ce68e96a1ab698cb633d2292af7643cf",
+  "prompts": {},
+  "sessions": {
+    "s_594002ef9fa3a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19417e57-a311-4ae1-bd04-64c5a4681b0f",
+        "model": "zai-org/GLM-5.2/TeleAI-002"
+      },
+      "human_author": "Jianliang Qi <jianliang5669@gmail.com>"
+    }
+  }
+}
