@@ -1,0 +1,25 @@
+pkg/plugins/gateway/algorithms/pd/engine_depth_tracker.go
+  s_4d790657420121::t_9e8c9d9aaacd4d 1-363
+pkg/types/router_context.go
+  s_4d790657420121::t_88f3b20ca71b37 121-132,312-323,407
+pkg/plugins/gateway/algorithms/pd_disaggregation.go
+  s_4d790657420121::t_a7c1dd35839dbb 112-122,221,263-270,321,371-393,976-982,1005-1009,1053-1070,1158-1178,1181-1185,1199-1203
+pkg/plugins/gateway/algorithms/pd/engine_depth_tracker_test.go
+  s_4d790657420121::t_a4b9ba343dd317 1-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "246edf2b06ddbee96a150b40b5958b2b5044c392",
+  "prompts": {},
+  "sessions": {
+    "s_4d790657420121": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_4d790657420121",
+        "model": "unknown"
+      },
+      "human_author": "qijl4 <qijl4@chinatelecom.cn>"
+    }
+  }
+}
