@@ -1,0 +1,60 @@
+pkg/plugins/gateway/algorithms/pd_disaggregation.go
+  s_8b4247260e1b52::t_202cc8e4b1d80a 282-290
+pkg/plugins/gateway/algorithms/pd/prefill/payload_test.go
+  s_8b4247260e1b52::t_ed25093f9526ff 1-20,22-26,29-151
+  s_8b4247260e1b52::t_3d032fd9924728 174-180
+  s_8b4247260e1b52::t_bbec286a1d1226 207-229
+  s_8b4247260e1b52::t_ebca766eff3538 152-173,181-206
+  s_8b4247260e1b52::t_72af2069d40a52 27-28
+  s_8b4247260e1b52::t_7efa13fb8c5227 21
+go.mod
+  s_8b4247260e1b52::t_ab79b977f0b56b 34
+pkg/plugins/gateway/algorithms/pd/prefill/payload.go
+  s_8b4247260e1b52::t_9887c55cd07bbf 29-40
+  s_8b4247260e1b52::t_138c982f6a2cdf 45-52
+pkg/plugins/gateway/gateway_req_body.go
+  s_8b4247260e1b52::t_dc784b7deffe8a 36
+  s_8b4247260e1b52::t_f1ddf97e8c516a 21
+  s_8b4247260e1b52::t_9aa4b9e310a666 135-139
+pkg/plugins/gateway/algorithms/pd/engine/handler.go
+  s_8b4247260e1b52::t_005bc37902944f 40-54
+  s_8b4247260e1b52::t_cf68333d878161 55-63
+pkg/plugins/gateway/algorithms/pd/engine/sglang.go
+  s_8b4247260e1b52::t_d1c269534d4551 83-95,129-130,150,165,169,173,180,184,188,192,196
+  s_8b4247260e1b52::t_a4ec7a79d39713 115-119,125
+  s_8b4247260e1b52::t_962a26e81a3bb8 25-26
+  s_8b4247260e1b52::t_b97756a3e10369 213-220
+  s_8b4247260e1b52::t_5fb930d1986360 230
+  s_8b4247260e1b52::t_abdffb11dbc5d3 76-82,141-148,153-159,161-164,166-168,170-172,174-179,181-183,185-187,189-191,193-195,197-212,221-229
+  s_8b4247260e1b52::t_8fc7ad89500b53 52-55,61-64
+  s_8b4247260e1b52::t_9cf8e2c82b6da6 96-97,139-140
+  s_8b4247260e1b52::t_5f9ea167d2e7ef 160
+  s_8b4247260e1b52::t_a51e387c554f0b 98-114,120-124,126-128,131-138,151-152
+  s_8b4247260e1b52::t_8db320af522a19 149
+pkg/plugins/gateway/algorithms/pd/engine/sglang_test.go
+  s_8b4247260e1b52::t_e547714ff40404 232-233
+  s_8b4247260e1b52::t_06cf6f98a00fec 255-257,260-262,264-265,270,273-274,281,284-285,292,295-296,328-334,337,339-343
+  s_8b4247260e1b52::t_17b100d089f972 1-231,234-252
+  s_8b4247260e1b52::t_3e80585bc125b8 253-254,258-259,263,266-268,271,278-279,282,289-290,293,335-336,338,344
+  s_8b4247260e1b52::t_c4a8d70832714a 269,272,275-277,280,283,286-288,291,294,297-327
+pkg/plugins/gateway/algorithms/pd_disaggregation_test.go
+  s_8b4247260e1b52::t_3fed1e268e8f21 24
+  s_8b4247260e1b52::t_4d54606885656c 3068-3071
+  s_8b4247260e1b52::t_1d6371223de986 3051-3067,3072-3080
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "5f8c413a6db2c362c47dd716b5efcf522add7ebc",
+  "prompts": {},
+  "sessions": {
+    "s_8b4247260e1b52": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10c5dd71-7bd1-4600-b4c0-5ba7ff9742e2",
+        "model": "zai-org/GLM-5.2/TeleAI-002"
+      },
+      "human_author": null
+    }
+  }
+}
