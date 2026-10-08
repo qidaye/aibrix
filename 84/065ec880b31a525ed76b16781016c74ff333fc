@@ -1,0 +1,41 @@
+docs/source/features/gateway-plugins.rst
+  s_486892bb72c4fa::t_12a847781e43f7 852,855,858
+docs/source/features/pd-disaggregation.rst
+  s_486892bb72c4fa::t_7726591c8fa098 167-171,174-176,180-186
+pkg/plugins/gateway/ENV_VARS.md
+  s_486892bb72c4fa::t_4be78aaf8e708a 310-329,333-335,343-346
+pkg/plugins/gateway/algorithms/pd/decode_watchdog.go
+  s_486892bb72c4fa::t_c4a0bc8bf1656c 35-36,42,48-51,60-63,66-67
+pkg/plugins/gateway/algorithms/pd_readme.md
+  s_486892bb72c4fa::t_b05dd7733e5941 537-539,541-545,552-556,727-729
+pkg/plugins/gateway/gateway.go
+  s_486892bb72c4fa::t_979c34b3091bcb 510-511,514,578-581,584,732-736
+pkg/plugins/gateway/gateway_decode_watchdog.go
+  s_486892bb72c4fa::t_a379003ffbfade 34-40,43-54,96-98,111,126,137-139,149,195-196,198-199,202-204,214-215,218,233-234,246,263-265,268-270
+pkg/types/pd_knobs.go
+  s_486892bb72c4fa::t_2a565edc2a0310 74-75,78,80-81
+pkg/types/pd_leg_state.go
+  s_486892bb72c4fa::t_a8c967409409bd 135-141,420-423,431,434-436,440,576-579,582-585
+pkg/types/pd_leg_state_test.go
+  s_486892bb72c4fa::t_7f99c3317b95e2 53-54,74,81,148-150,152,154-155,159-160,163
+pkg/types/routing_config.go
+  s_486892bb72c4fa::t_1d77b0ffd5956c 138-140,142-143
+test/e2e/gateway/pd/pd_decode_watchdog_test.go
+  s_486892bb72c4fa::t_1819ea9b5bfeec 45-48,95-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "84065ec880b31a525ed76b16781016c74ff333fc",
+  "prompts": {},
+  "sessions": {
+    "s_486892bb72c4fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e582d401-99f2-4eb6-a73c-fef8646c6095",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "Jianliang Qi <jianliang5669@gmail.com>"
+    }
+  }
+}
