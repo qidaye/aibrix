@@ -1,0 +1,27 @@
+pkg/plugins/gateway/algorithms/pd/prefill/prefill_failure_test.go
+  s_486892bb72c4fa::t_68adad84848f2f 163-164,182-187,210-211
+pkg/types/pd_leg_state.go
+  s_486892bb72c4fa::t_dfe9cb5e3eed0a 120-124,373-375
+pkg/metrics/gateway_metrics.go
+  s_486892bb72c4fa::t_cd5c73d515a6cd 52,166
+pkg/plugins/gateway/algorithms/pd/prefill/trtllm_test.go
+  s_486892bb72c4fa::t_374588f0e0ab55 125-127
+pkg/plugins/gateway/ENV_VARS.md
+  s_486892bb72c4fa::t_1f02b351005f2e 317-321
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "c7567d71674c71bdae82baa799ee32dfb25fce70",
+  "prompts": {},
+  "sessions": {
+    "s_486892bb72c4fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e582d401-99f2-4eb6-a73c-fef8646c6095",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "Jianliang Qi <jianliang5669@gmail.com>"
+    }
+  }
+}
